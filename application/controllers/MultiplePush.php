@@ -2,7 +2,7 @@
 
 //defined a new constant for firebase api 
 //staging key
-define('FIREBASE_API_KEY', 'AAAA03Fjmo8:APA91bF-yalXEAIa0fPyEAa5UowCMaWMycSoXmQKgFpbutOcH3NBs9JobVHNct_ZpCtbBLZU540CHLHNijchKzhZ5bKoz_QuXpv4ervWuWs1bz9uhLsOMA3-N4AKuQBYG4xrarYITnh7');
+define('FIREBASE_API_KEY', '');
 
 
  class MultiplePush extends CI_Controller

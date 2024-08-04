@@ -22,7 +22,7 @@ class Notification extends CI_Controller{
          if(strpos( $uDeviceId, 'iOS-' ) !== false ){//from ios
                 
                 //FCM key
-                $apiKey="AAAAdmSf9O0:APA91bGKmoe6z2bSSRxPpz4ACFUskYuhdSRNIyBK2f5P7sCnjxoaV7OVB7No08Lp_OlamfXfESeqShCxvFtTXrR0Z8-puTk5V-msPNUGYEhCZ2A085EQL8m0wNgoQ7dnfCXMut4mlKEQ";
+                $apiKey="";
                 $tokens = str_replace("iOS-","",$uDeviceId);
 
                             $notification = array
@@ -48,7 +48,7 @@ class Notification extends CI_Controller{
             }else{ //from android
                 
                 //FCM key
-                 $apiKey = 'AAAAzDnu7Zc:APA91bFUX_XbQx2ESP99zn7AQkd9jtYpOfEu0s3XwxH1SBJA-SMalgsbyfF27QJGYB7c81RvDP9S5iF5JSwj5lycROMHbxx_hibIsUi5W0Ds0UQmjOLQHtPYv1Cl8CEE67GGaNmDKprO';
+                 $apiKey = '';
 
                  $tokens=$uDeviceId;
                             
