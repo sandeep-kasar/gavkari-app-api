@@ -1,0 +1,56 @@
+[21-Oct-2019 13:39:17 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Disclaimers' (T_STRING) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:39:37 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Disclaimers' (T_STRING) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:46:25 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:46:55 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:47:00 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:47:01 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:47:02 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:47:03 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:47:04 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:47:05 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:47:07 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:47:08 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:47:09 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:47:10 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:47:12 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:47:13 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:47:14 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:47:15 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[21-Oct-2019 13:47:16 Etc/GMT] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/weclej1n/public_html/legal.php on line 3
+[17-Nov-2019 16:06:54 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/weclej1n/public_html/application/controllers/MyVillage.php on line 2
+[25-Nov-2019 17:49:55 Etc/GMT] PHP Warning:  simplexml_load_file(https://www.loksatta.com/timuktvimukt/feed/): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/weclej1n/public_html/rss.php on line 42
+[25-Nov-2019 17:49:55 Etc/GMT] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.loksatta.com/timuktvimukt/feed/&quot; in /home/weclej1n/public_html/rss.php on line 42
+[25-Nov-2019 17:50:04 Etc/GMT] PHP Warning:  simplexml_load_file(https://www.loksatta.com/timuktvimukt/feed/): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/weclej1n/public_html/rss.php on line 42
+[25-Nov-2019 17:50:04 Etc/GMT] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.loksatta.com/timuktvimukt/feed/&quot; in /home/weclej1n/public_html/rss.php on line 42
+[25-Nov-2019 17:50:31 Etc/GMT] PHP Warning:  simplexml_load_file(https://www.loksatta.com/timuktvimukt/feed/): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/weclej1n/public_html/rss.php on line 42
+[25-Nov-2019 17:50:31 Etc/GMT] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.loksatta.com/timuktvimukt/feed/&quot; in /home/weclej1n/public_html/rss.php on line 42
+[25-Nov-2019 17:50:40 Etc/GMT] PHP Warning:  simplexml_load_file(https://www.loksatta.com/timuktvimukt/feed/): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/weclej1n/public_html/rss.php on line 42
+[25-Nov-2019 17:50:40 Etc/GMT] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.loksatta.com/timuktvimukt/feed/&quot; in /home/weclej1n/public_html/rss.php on line 42
+[25-Nov-2019 17:50:53 Etc/GMT] PHP Warning:  simplexml_load_file(https://www.loksatta.com/timuktvimukt/feed/): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/weclej1n/public_html/rss.php on line 42
+[25-Nov-2019 17:50:53 Etc/GMT] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.loksatta.com/timuktvimukt/feed/&quot; in /home/weclej1n/public_html/rss.php on line 42
+[25-Nov-2019 17:51:28 Etc/GMT] PHP Warning:  simplexml_load_file(https://www.loksatta.com/timuktvimukt/feed/): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/weclej1n/public_html/rss.php on line 42
+[25-Nov-2019 17:51:28 Etc/GMT] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.loksatta.com/timuktvimukt/feed/&quot; in /home/weclej1n/public_html/rss.php on line 42
+[25-Nov-2019 17:51:31 Etc/GMT] PHP Warning:  simplexml_load_file(https://www.loksatta.com/timuktvimukt/feed/): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/weclej1n/public_html/rss.php on line 42
+[25-Nov-2019 17:51:31 Etc/GMT] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.loksatta.com/timuktvimukt/feed/&quot; in /home/weclej1n/public_html/rss.php on line 42
+[25-Nov-2019 17:54:50 Etc/GMT] PHP Warning:  file_get_contents(https://www.loksatta.com/timuktvimukt/feed/): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/weclej1n/public_html/rss.php on line 5
+[25-Nov-2019 17:54:50 Etc/GMT] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/weclej1n/public_html/rss.php:6
+Stack trace:
+#0 /home/weclej1n/public_html/rss.php(6): SimpleXMLElement->__construct('')
+#1 {main}
+  thrown in /home/weclej1n/public_html/rss.php on line 6
+[25-Nov-2019 17:54:52 Etc/GMT] PHP Warning:  file_get_contents(https://www.loksatta.com/timuktvimukt/feed/): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/weclej1n/public_html/rss.php on line 5
+[25-Nov-2019 17:54:52 Etc/GMT] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/weclej1n/public_html/rss.php:6
+Stack trace:
+#0 /home/weclej1n/public_html/rss.php(6): SimpleXMLElement->__construct('')
+#1 {main}
+  thrown in /home/weclej1n/public_html/rss.php on line 6
+[07-Dec-2019 09:41:32 Etc/GMT] PHP Fatal error:  Cannot use empty array elements in arrays in /home/weclej1n/public_html/application/controllers/VillageDirectory.php on line 106
